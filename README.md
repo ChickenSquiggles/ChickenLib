@@ -1,6 +1,7 @@
 # ChickenLib
 A library that I created for c++ that just has some helpful things for c++.
 # Features include:
+```
 Easy Console Color Changing
 Easy Sound Playing
 TTS (Text To Speech)
@@ -11,3 +12,4 @@ Easy Coonsole Title Changing
 Easy Console Text Size Changing
 Easy Console Pausing
 Printing with a color
+```

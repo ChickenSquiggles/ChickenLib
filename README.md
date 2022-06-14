@@ -1,5 +1,5 @@
 # ChickenLib
-A library that I created for c++ that just has some helpful things for c++.
+A library that I created for c++ that just has some helpful things for creating a program in the console using c++.
 ## Features include:
 ```
 Easy Console Color Changing
